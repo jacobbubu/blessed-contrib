@@ -1,6 +1,6 @@
 {
   "name": "@jacobbubu/blessed-contrib",
-  "version": "4.8.21",
+  "version": "4.8.22",
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
