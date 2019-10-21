@@ -221,7 +221,9 @@ declare namespace BlessedContrib {
         export interface DonutData {
             percent?: string,
             label?: string,
-            color?: string
+            color?: string,
+            value?: any,
+            percentMark?: string,
         }
 
         export interface DonutOptions extends CanvasOptions<DonutData[]> {
